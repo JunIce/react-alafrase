@@ -6,3 +6,4 @@ body {
 h1,ul,li,a,input,body{margin:0;padding:0;}
 li{list-style:none}
 a{text-decoration: none;color:#666}
+.fixed{position: fixed;top:0;left: 0}
