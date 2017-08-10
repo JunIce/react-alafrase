@@ -1,0 +1,22 @@
+.inav{
+	width:100%;
+}
+.inav ul{
+	line-height:60px;
+	box-shadow: 0 0 4px rgba(25,25,25,0.1);
+	background-color: #fff;
+}
+.i-item{
+	margin: 0 15px;
+	display: inline-block;
+	cursor:pointer;
+	min-width: 100px;
+	font-size: 15px;
+	font-weight: 600;
+}
+.i-item a{
+	display:block;
+}
+.i-item a:hover{
+	color:#0057ff;
+}

@@ -1,0 +1,8 @@
+body {
+  font-family: "microsoft yahei";
+  background-color: #f9f9f9;
+  height: 1000px;
+}
+h1,ul,li,a,input,body{margin:0;padding:0;}
+li{list-style:none}
+a{text-decoration: none;color:#666}
